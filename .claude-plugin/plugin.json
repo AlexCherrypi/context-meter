@@ -1,0 +1,6 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Shows in the status line under the prompt how much of the context window the chat uses.",
+  "author": { "name": "AlexCherrypi" }
+}
