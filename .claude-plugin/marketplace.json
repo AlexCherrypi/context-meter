@@ -1,0 +1,6 @@
+{
+  "name": "context-meter",
+  "description": "Context window fill in the Claude Code status line",
+  "owner": { "name": "AlexCherrypi" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}
